@@ -1,0 +1,3 @@
+/* Block editor: match front-end Odia typography so editors see what readers see. */
+body{font-family:"Noto Sans Oriya","Noto Sans Odia",system-ui,sans-serif;font-size:18px;line-height:1.95}
+h1,h2,h3,.editor-post-title__input{font-family:"Noto Serif Oriya","Noto Serif Odia",serif;line-height:1.5}

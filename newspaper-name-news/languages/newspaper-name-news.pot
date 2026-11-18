@@ -1,0 +1,421 @@
+# Translation template for newspaper-name-news.
+msgid ""
+msgstr ""
+"Project-Id-Version: newspaper-name-news 0.2.0\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Domain: newspaper-name-news\n"
+
+#: 404.php:3
+msgid "Page not found"
+msgstr ""
+
+#: 404.php:4
+msgid "The page you are looking for may have moved. Try searching:"
+msgstr ""
+
+#: 404.php:6
+msgid "Back to Home"
+msgstr ""
+
+#: footer.php:12
+msgid "Quick Links"
+msgstr ""
+
+#: footer.php:17
+msgid "Categories"
+msgstr ""
+
+#: footer.php:22
+msgid "Registered Office"
+msgstr ""
+
+#: footer.php:24
+msgid "RNI No.:"
+msgstr ""
+
+#: footer.php:29
+msgid "All rights reserved."
+msgstr ""
+
+#: footer.php:36
+msgid "Quick navigation"
+msgstr ""
+
+#: footer.php:37
+msgid "Home"
+msgstr ""
+
+#: footer.php:38 template-parts/header/topbar.php:13
+msgid "e-Paper"
+msgstr ""
+
+#: footer.php:39
+msgid "Breaking"
+msgstr ""
+
+#: footer.php:40 template-parts/home/videos.php:9
+msgid "Videos"
+msgstr ""
+
+#: functions.php:21
+msgid "Please activate the \"Newspaper Core\" plugin to enable Breaking News, e-Paper, Galleries, Videos and Districts."
+msgstr ""
+
+#: header.php:10
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:26
+msgid "Main menu"
+msgstr ""
+
+#: header.php:28
+msgid "Menu"
+msgstr ""
+
+#: header.php:32 searchform.php:3 searchform.php:5
+msgid "Search"
+msgstr ""
+
+#: inc/ads.php:13 inc/ads.php:17
+msgid "Advertisement"
+msgstr ""
+
+#: inc/customizer.php:51
+msgid "Header (728×90)"
+msgstr ""
+
+#: inc/customizer.php:52
+msgid "Sidebar (300×250)"
+msgstr ""
+
+#: inc/customizer.php:53
+msgid "Between homepage sections"
+msgstr ""
+
+#: inc/customizer.php:54
+msgid "In-article (after paragraph 3)"
+msgstr ""
+
+#: inc/customizer.php:55
+msgid "Sticky mobile bottom (320×50)"
+msgstr ""
+
+#: inc/customizer.php:73
+msgid "Newspaper Options"
+msgstr ""
+
+#: inc/customizer.php:75
+msgid "Colours & Fonts"
+msgstr ""
+
+#: inc/customizer.php:76
+msgid "Top Bar & e-Paper"
+msgstr ""
+
+#: inc/customizer.php:77
+msgid "Breaking Ticker & Flash"
+msgstr ""
+
+#: inc/customizer.php:78
+msgid "Homepage Sections"
+msgstr ""
+
+#: inc/customizer.php:79
+msgid "Social Links"
+msgstr ""
+
+#: inc/customizer.php:80
+msgid "Ad Manager"
+msgstr ""
+
+#: inc/customizer.php:81
+msgid "Footer & Legal"
+msgstr ""
+
+#: inc/customizer.php:82
+msgid "Analytics & Engagement"
+msgstr ""
+
+#: inc/customizer.php:89
+msgid "Primary (brand) colour"
+msgstr ""
+
+#: inc/customizer.php:89
+msgid "Dark/menu colour"
+msgstr ""
+
+#: inc/customizer.php:93
+msgid "Base font size (px)"
+msgstr ""
+
+#: inc/customizer.php:96
+msgid "Panjika / Tithi line (optional, Odia)"
+msgstr ""
+
+#: inc/customizer.php:97
+msgid "e-Paper page URL"
+msgstr ""
+
+#: inc/customizer.php:100
+msgid "Show breaking ticker"
+msgstr ""
+
+#: inc/customizer.php:101
+msgid "Ticker label"
+msgstr ""
+
+#: inc/customizer.php:102
+msgid "Ticker speed (pixels per second)"
+msgstr ""
+
+#: inc/customizer.php:103
+msgid "Max items in ticker"
+msgstr ""
+
+#: inc/customizer.php:104
+msgid "Show full-width FLASH banner on homepage (for items marked Flash)"
+msgstr ""
+
+#: inc/customizer.php:107
+msgid "Sections to show, in order (comma separated). Remove a key to hide it."
+msgstr ""
+
+#: inc/customizer.php:111
+msgid "Category slug for \"%s\" block"
+msgstr ""
+
+#: inc/customizer.php:122
+msgid "%s: enabled"
+msgstr ""
+
+#: inc/customizer.php:124
+msgid "Show on"
+msgstr ""
+
+#: inc/customizer.php:125
+msgid "All devices"
+msgstr ""
+
+#: inc/customizer.php:125
+msgid "Desktop only"
+msgstr ""
+
+#: inc/customizer.php:125
+msgid "Mobile only"
+msgstr ""
+
+#: inc/customizer.php:127
+msgid "AdSense / HTML code (leave empty to use image)"
+msgstr ""
+
+#: inc/customizer.php:129
+msgid "Banner image"
+msgstr ""
+
+#: inc/customizer.php:131
+msgid "Banner link"
+msgstr ""
+
+#: inc/customizer.php:135
+msgid "About the paper"
+msgstr ""
+
+#: inc/customizer.php:136
+msgid "Registered office address"
+msgstr ""
+
+#: inc/customizer.php:137
+msgid "RNI / Registration number"
+msgstr ""
+
+#: inc/customizer.php:138
+msgid "Copyright text (blank = automatic)"
+msgstr ""
+
+#: inc/customizer.php:141
+msgid "Google Analytics 4 ID (G-XXXX)"
+msgstr ""
+
+#: inc/customizer.php:142
+msgid "AdSense publisher ID (ca-pub-XXXX)"
+msgstr ""
+
+#: inc/customizer.php:143
+msgid "OneSignal App ID (push notifications)"
+msgstr ""
+
+#: inc/customizer.php:144
+msgid "Show dark-mode toggle"
+msgstr ""
+
+#: inc/customizer.php:145
+msgid "Show WhatsApp/Telegram join banner on articles"
+msgstr ""
+
+#: inc/enqueue.php:17
+msgid "Link copied"
+msgstr ""
+
+#: inc/enqueue.php:17
+msgid "Loading…"
+msgstr ""
+
+#: inc/setup.php:18
+msgid "Primary Menu"
+msgstr ""
+
+#: inc/setup.php:19
+msgid "Footer Quick Links"
+msgstr ""
+
+#: inc/setup.php:37
+msgid "Sidebar"
+msgstr ""
+
+#: inc/setup.php:38
+msgid "Footer Column 1"
+msgstr ""
+
+#: inc/setup.php:39
+msgid "Footer Column 2"
+msgstr ""
+
+#: inc/template-tags.php:14
+msgid "min read"
+msgstr ""
+
+#: inc/template-tags.php:26
+msgid "Sponsored"
+msgstr ""
+
+#: inc/template-tags.php:90
+msgid "Share on %s"
+msgstr ""
+
+#: inc/template-tags.php:92
+msgid "Copy link"
+msgstr ""
+
+#: inc/template-tags.php:101 template-parts/home/districts.php:11
+msgid "Districts"
+msgstr ""
+
+#: search.php:4
+msgid "Search results for: %s"
+msgstr ""
+
+#: searchform.php:4
+msgid "Search news… (ଖବର ଖୋଜନ୍ତୁ)"
+msgstr ""
+
+#: template-parts/content/article.php:18
+msgid "Published:"
+msgstr ""
+
+#: template-parts/content/article.php:20
+msgid "Updated:"
+msgstr ""
+
+#: template-parts/content/article.php:23
+msgid "views"
+msgstr ""
+
+#: template-parts/content/article.php:27
+msgid "Text size"
+msgstr ""
+
+#: template-parts/content/article.php:28
+msgid "Decrease text size"
+msgstr ""
+
+#: template-parts/content/article.php:29
+msgid "Increase text size"
+msgstr ""
+
+#: template-parts/content/article.php:38
+msgid "Photo:"
+msgstr ""
+
+#: template-parts/content/article.php:50
+msgid "Join our WhatsApp channel"
+msgstr ""
+
+#: template-parts/content/article.php:51
+msgid "Join on Telegram"
+msgstr ""
+
+#: template-parts/content/most-read.php:3
+msgid "Most Read"
+msgstr ""
+
+#: template-parts/content/most-read.php:5
+msgid "Today"
+msgstr ""
+
+#: template-parts/content/most-read.php:6
+msgid "7 days"
+msgstr ""
+
+#: template-parts/content/none.php:2
+msgid "No news found."
+msgstr ""
+
+#: template-parts/content/related.php:10
+msgid "Related News"
+msgstr ""
+
+#: template-parts/header/ticker.php:7
+msgid "Breaking news"
+msgstr ""
+
+#: template-parts/header/ticker.php:18
+msgid "Pause ticker"
+msgstr ""
+
+#: template-parts/header/topbar.php:11
+msgid "Toggle dark mode"
+msgstr ""
+
+#: template-parts/home/category-block.php:14
+msgid "More"
+msgstr ""
+
+#: template-parts/home/districts.php:13 template-parts/home/districts.php:15
+msgid "Choose district"
+msgstr ""
+
+#: template-parts/home/epaper.php:15
+msgid "Today's e-Paper"
+msgstr ""
+
+#: template-parts/home/epaper.php:17
+msgid "Read e-Paper"
+msgstr ""
+
+#: template-parts/home/epaper.php:18
+msgid "Past editions"
+msgstr ""
+
+#: template-parts/home/gallery.php:9
+msgid "Photo Gallery"
+msgstr ""
+
+#: template-parts/home/gallery.php:10
+msgid "Photo galleries"
+msgstr ""
+
+#: template-parts/home/latest.php:9
+msgid "Latest News"
+msgstr ""
+
+#: template-parts/home/latest.php:14
+msgid "Load more"
+msgstr ""
+
+#: template-parts/home/videos.php:14
+msgid "Play: %s"
+msgstr ""
+

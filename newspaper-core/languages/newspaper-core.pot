@@ -1,0 +1,493 @@
+# Translation template for newspaper-core.
+msgid ""
+msgstr ""
+"Project-Id-Version: newspaper-core 0.2.0\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Domain: newspaper-core\n"
+
+#: includes/breaking.php:9
+msgid "Breaking settings"
+msgstr ""
+
+#: includes/breaking.php:19
+msgid "FLASH (show big banner on homepage)"
+msgstr ""
+
+#: includes/breaking.php:20
+msgid "Auto-hide after"
+msgstr ""
+
+#: includes/breaking.php:22
+msgid "Leave empty to never expire."
+msgstr ""
+
+#: includes/breaking.php:23
+msgid "Link to full story (optional)"
+msgstr ""
+
+#: includes/breaking.php:78
+msgid "Flash"
+msgstr ""
+
+#: includes/breaking.php:79
+msgid "Status"
+msgstr ""
+
+#: includes/breaking.php:86
+msgid "Active (no expiry)"
+msgstr ""
+
+#: includes/breaking.php:87
+msgid "Expired"
+msgstr ""
+
+#: includes/breaking.php:88
+msgid "Active until %s"
+msgstr ""
+
+#: includes/dashboard.php:7
+msgid "Newsroom today"
+msgstr ""
+
+#: includes/dashboard.php:10
+msgid "Today's e-Paper"
+msgstr ""
+
+#: includes/dashboard.php:16
+msgid "Uploaded"
+msgstr ""
+
+#: includes/dashboard.php:16
+msgid "Not published yet"
+msgstr ""
+
+#: includes/dashboard.php:20
+msgid "Pending – no edition uploaded yet."
+msgstr ""
+
+#: includes/dashboard.php:20
+msgid "Upload now"
+msgstr ""
+
+#: includes/dashboard.php:25
+msgid "Active Breaking"
+msgstr ""
+
+#: includes/dashboard.php:28
+msgid "until %s"
+msgstr ""
+
+#: includes/dashboard.php:30 includes/quick-publish.php:9 includes/quick-publish.php:9
+msgid "Quick Publish"
+msgstr ""
+
+#: includes/demo.php:10 includes/demo.php:10
+msgid "Newspaper Demo"
+msgstr ""
+
+#: includes/demo.php:14
+msgid "Newspaper demo content"
+msgstr ""
+
+#: includes/demo.php:16
+msgid "Creates categories, ~16 sample Odia stories, 3 breaking items (1 Flash), legal pages, contact/advertise pages, menus and one sample e-Paper edition."
+msgstr ""
+
+#: includes/demo.php:19
+msgid "Import demo content"
+msgstr ""
+
+#: includes/demo.php:23
+msgid "Remove demo content"
+msgstr ""
+
+#: includes/epaper.php:14
+msgid "Edition details & pages"
+msgstr ""
+
+#: includes/epaper.php:38
+msgid "Edition date"
+msgstr ""
+
+#: includes/epaper.php:39
+msgid "Edition name"
+msgstr ""
+
+#: includes/epaper.php:43
+msgid "Page images"
+msgstr ""
+
+#: includes/epaper.php:44
+msgid "Click \"Add / upload pages\", then drag all page images (page-01.jpg, page-02.jpg …) into the window. Drag thumbnails to reorder, or use \"Sort by filename\"."
+msgstr ""
+
+#: includes/epaper.php:46
+msgid "Add / upload pages"
+msgstr ""
+
+#: includes/epaper.php:47
+msgid "Sort by filename"
+msgstr ""
+
+#: includes/epaper.php:48
+msgid "Remove all"
+msgstr ""
+
+#: includes/epaper.php:53
+msgid "Remove page"
+msgstr ""
+
+#: includes/epaper.php:59
+msgid "Full PDF (optional)"
+msgstr ""
+
+#: includes/epaper.php:60
+msgid "Select / upload PDF"
+msgstr ""
+
+#: includes/epaper.php:62
+msgid "Remove"
+msgstr ""
+
+#: includes/epaper.php:93
+msgid "Log in"
+msgstr ""
+
+#: includes/epaper.php:105
+msgid "Not available."
+msgstr ""
+
+#: includes/epaper.php:108
+msgid "File missing."
+msgstr ""
+
+#: includes/epaper.php:140
+msgid "Choose a date"
+msgstr ""
+
+#: includes/epaper.php:142
+msgid "Open"
+msgstr ""
+
+#: includes/epaper.php:145
+msgid "Editions for %s"
+msgstr ""
+
+#: includes/epaper.php:146
+msgid "No edition was uploaded for this date."
+msgstr ""
+
+#: includes/epaper.php:148
+msgid "Recent editions"
+msgstr ""
+
+#: includes/epaper.php:182
+msgid "Switch edition"
+msgstr ""
+
+#: includes/epaper.php:188
+msgid "Previous page"
+msgstr ""
+
+#: includes/epaper.php:190
+msgid "Next page"
+msgstr ""
+
+#: includes/epaper.php:191
+msgid "Zoom out"
+msgstr ""
+
+#: includes/epaper.php:192
+msgid "Zoom in"
+msgstr ""
+
+#: includes/epaper.php:193
+msgid "Full screen"
+msgstr ""
+
+#: includes/epaper.php:203
+msgid "Page %d"
+msgstr ""
+
+#: includes/epaper.php:207
+msgid "Pages"
+msgstr ""
+
+#: includes/epaper.php:209
+msgid "Go to page %d"
+msgstr ""
+
+#: includes/epaper.php:216
+msgid "Pages for this edition are not uploaded yet."
+msgstr ""
+
+#: includes/forms.php:16
+msgid "Session expired, please try again."
+msgstr ""
+
+#: includes/forms.php:18 includes/forms.php:33
+msgid "Thank you! We will get back to you soon."
+msgstr ""
+
+#: includes/forms.php:26
+msgid "Please fill name, a valid email and message."
+msgstr ""
+
+#: includes/forms.php:45
+msgid "Name"
+msgstr ""
+
+#: includes/forms.php:46
+msgid "Email"
+msgstr ""
+
+#: includes/forms.php:47
+msgid "Phone"
+msgstr ""
+
+#: includes/forms.php:49
+msgid "Company / Ad type (Print, Web, e-Paper)"
+msgstr ""
+
+#: includes/forms.php:51
+msgid "Message"
+msgstr ""
+
+#: includes/forms.php:52
+msgid "Send"
+msgstr ""
+
+#: includes/live-updates.php:24
+msgid "Live updates"
+msgstr ""
+
+#: includes/live-updates.php:26
+msgid "Type the update and press \"Post update\"…"
+msgstr ""
+
+#: includes/live-updates.php:27
+msgid "Post update"
+msgstr ""
+
+#: includes/live-updates.php:30 includes/live-updates.php:66
+msgid "Delete"
+msgstr ""
+
+#: includes/live-updates.php:53 includes/quick-publish.php:46
+msgid "Not allowed"
+msgstr ""
+
+#: includes/live-updates.php:60
+msgid "Empty update"
+msgstr ""
+
+#: includes/meta.php:22
+msgid "News details"
+msgstr ""
+
+#: includes/meta.php:23
+msgid "YouTube video"
+msgstr ""
+
+#: includes/meta.php:29
+msgid "Sub-headline (kicker)"
+msgstr ""
+
+#: includes/meta.php:30
+msgid "Dateline / location (e.g. ଭୁବନେଶ୍ୱର)"
+msgstr ""
+
+#: includes/meta.php:31
+msgid "Reporter name (if different from author)"
+msgstr ""
+
+#: includes/meta.php:32
+msgid "Featured photo credit"
+msgstr ""
+
+#: includes/meta.php:37
+msgid "Sponsored post (shows \"Sponsored\" label)"
+msgstr ""
+
+#: includes/meta.php:38
+msgid "Live Updates post (enables live entries box below)"
+msgstr ""
+
+#: includes/meta.php:43
+msgid "YouTube URL"
+msgstr ""
+
+#: includes/post-types.php:7
+msgid "Add %s"
+msgstr ""
+
+#: includes/post-types.php:7
+msgid "Edit %s"
+msgstr ""
+
+#: includes/post-types.php:7
+msgid "All %s"
+msgstr ""
+
+#: includes/post-types.php:11
+msgid "Breaking News"
+msgstr ""
+
+#: includes/post-types.php:11
+msgid "Breaking item"
+msgstr ""
+
+#: includes/post-types.php:17
+msgid "e-Paper"
+msgstr ""
+
+#: includes/post-types.php:17
+msgid "e-Paper Edition"
+msgstr ""
+
+#: includes/post-types.php:25
+msgid "Photo Galleries"
+msgstr ""
+
+#: includes/post-types.php:25
+msgid "Photo Gallery"
+msgstr ""
+
+#: includes/post-types.php:31
+msgid "Videos"
+msgstr ""
+
+#: includes/post-types.php:31
+msgid "Video"
+msgstr ""
+
+#: includes/post-types.php:37
+msgid "Districts"
+msgstr ""
+
+#: includes/post-types.php:37
+msgid "District"
+msgstr ""
+
+#: includes/quick-publish.php:20
+msgid "Published!"
+msgstr ""
+
+#: includes/quick-publish.php:20
+msgid "Submitted for review."
+msgstr ""
+
+#: includes/quick-publish.php:21
+msgid "View"
+msgstr ""
+
+#: includes/quick-publish.php:22
+msgid "Edit in full"
+msgstr ""
+
+#: includes/quick-publish.php:27
+msgid "Headline"
+msgstr ""
+
+#: includes/quick-publish.php:29
+msgid "One line (optional)"
+msgstr ""
+
+#: includes/quick-publish.php:31
+msgid "Photo (optional)"
+msgstr ""
+
+#: includes/quick-publish.php:32
+msgid "Publish as"
+msgstr ""
+
+#: includes/quick-publish.php:33
+msgid "Breaking ticker item"
+msgstr ""
+
+#: includes/quick-publish.php:34
+msgid "FLASH banner on homepage"
+msgstr ""
+
+#: includes/quick-publish.php:35
+msgid "Also create a news post in category:"
+msgstr ""
+
+#: includes/quick-publish.php:38
+msgid "Hide ticker item after (hours)"
+msgstr ""
+
+#: includes/quick-publish.php:39
+msgid "Publish now"
+msgstr ""
+
+#: includes/quick-publish.php:39
+msgid "Submit for review"
+msgstr ""
+
+#: includes/quick-publish.php:52
+msgid "Headline is required."
+msgstr ""
+
+#: includes/roles.php:15
+msgid "Reporter"
+msgstr ""
+
+#: includes/roles.php:18
+msgid "e-Paper Uploader"
+msgstr ""
+
+#: includes/roles.php:48
+msgid "Newsroom profile"
+msgstr ""
+
+#: includes/roles.php:49
+msgid "Designation"
+msgstr ""
+
+#: includes/settings.php:21 includes/settings.php:21
+msgid "Newspaper Core"
+msgstr ""
+
+#: includes/settings.php:39
+msgid "Newspaper Core settings"
+msgstr ""
+
+#: includes/settings.php:42
+msgid "e-Paper access"
+msgstr ""
+
+#: includes/settings.php:43
+msgid "Everyone"
+msgstr ""
+
+#: includes/settings.php:44
+msgid "Logged-in / subscribed users only"
+msgstr ""
+
+#: includes/settings.php:45
+msgid "Message for logged-out readers"
+msgstr ""
+
+#: includes/settings.php:46
+msgid "Allow PDF download"
+msgstr ""
+
+#: includes/settings.php:46
+msgid "Show \"Download PDF\" button"
+msgstr ""
+
+#: includes/settings.php:47
+msgid "WebP"
+msgstr ""
+
+#: includes/settings.php:47
+msgid "Save uploaded JPEG/PNG sizes as WebP (server must support WebP)"
+msgstr ""
+
+#: includes/settings.php:48
+msgid "Default Breaking expiry (hours)"
+msgstr ""
+

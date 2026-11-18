@@ -1,0 +1,7 @@
+.np-ep-fields{display:flex;gap:24px;flex-wrap:wrap}
+.np-ep-pages{display:flex;flex-wrap:wrap;gap:10px;margin:12px 0;padding:0;list-style:none;counter-reset:pg}
+.np-ep-pages li{position:relative;width:110px;border:2px solid #ddd;background:#fff;cursor:move;counter-increment:pg;margin:0}
+.np-ep-pages li::before{content:counter(pg);position:absolute;left:0;top:0;background:#c4161c;color:#fff;font-weight:700;padding:0 6px}
+.np-ep-pages li.is-dragging{opacity:.4}
+.np-ep-pages img{display:block;width:100%;height:auto}
+.np-ep-remove{position:absolute;right:0;top:0;border:0;background:#000;color:#fff;cursor:pointer;width:22px;height:22px}
